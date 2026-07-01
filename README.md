@@ -4,8 +4,6 @@ Welcome to my DSA (Data Structures & Algorithms) practice repository!
 
 I'm solving problems from **Striver's A2Z DSA Sheet** — a highly structured roadmap designed to master DSA concepts from the absolute basics to an advanced level. 
 
-> 💡 **My Approach:** As a beginner, I have documented exactly how I approached and thought through each problem, breaking down the logic step-by-step so it's easy to follow.
-
 ---
 
 ## 📌 About This Repository
