@@ -1,16 +1,23 @@
-#🚀 Striver's A2Z DSA Sheet – Practice Repository
-Welcome to my DSA (Data Structures & Algorithms) practice repository!
-I'm solving problems from the Striver's A2Z DSA Sheet – a structured roadmap to master DSA concepts from basics to advanced level. I have added the way as a beginner how I approached the problems.
+# 🚀 Striver's A2Z DSA Sheet – Practice Repository
 
-#📌 About This Repository
-✅ Based on Striver's A2Z DSA Course Sheet
-📂 Problems are categorized by topic and difficulty (Easy, Medium, Hard)
-💻 Solutions are written in C++
-🧠 Focused on understanding logic, patterns, and coding best practices
-📝 Each solution includes:
-Problem statement (linked to the original source)
-Approach & explanation
-Clean, well-commented code
+Welcome to my DSA (Data Structures & Algorithms) practice repository! 
 
+I'm solving problems from **Striver's A2Z DSA Sheet** — a highly structured roadmap designed to master DSA concepts from the absolute basics to an advanced level. 
+
+> 💡 **My Approach:** As a beginner, I have documented exactly how I approached and thought through each problem, breaking down the logic step-by-step so it's easy to follow.
+
+---
+
+## 📌 About This Repository
+
+* **🎯 Structured Path:** Based strictly on the Striver's A2Z DSA Course Sheet.
+* **📂 Organized Structure:** Problems are categorized neatly by topic and difficulty (*Easy*, *Medium*, *Hard*).
+* **💻 Language Choice:** All solutions are written in clean, modern **C++**.
+* **🧠 Logic First:** Focused heavily on understanding underlying logic, recognizing patterns, and following coding best practices.
+
+### 📝 What's Inside Each Solution?
+1. **Problem Link:** Direct link to the original source (LeetCode, Code360/Coding Ninjas, GFG).
+2. **Approach & Explanation:** A breakdown of the brute-force, better, and optimal intuition.
+3. **Code:** Clean, well-commented C++ code ready for review.
 
 
