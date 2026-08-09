@@ -14,8 +14,7 @@ I'm solving problems from **Striver's A2Z DSA Sheet** — a highly structured ro
 * **🧠 Logic First:** Focused heavily on understanding underlying logic, recognizing patterns, and following coding best practices.
 
 ### 📝 What's Inside Each Solution?
-1. **Problem Link:** Direct link to the original source (LeetCode, Code360/Coding Ninjas, GFG).
-2. **Approach & Explanation:** A breakdown of the brute-force, better, and optimal intuition.
-3. **Code:** Clean, well-commented C++ code ready for review.
+1. **Approach & Explanation:** A breakdown of the brute-force, better, and optimal intuition.
+2. **Code:** Clean, well-commented C++ code ready for review.
 
 
